@@ -93,7 +93,7 @@ export default function Footer() {
               Building Dreams, One Home at a Time.
             </Heading>
             <div className={cn("subheading-small", styles.email)}>
-              HEAVENHOMES@INFO.COM
+              DREAMHOME@INFO.COM
             </div>
           </div>
         </div>

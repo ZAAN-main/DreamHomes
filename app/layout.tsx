@@ -20,9 +20,9 @@ const authorSemibold = localFont({
 });
 
 export const metadata = {
-  title: "HeavenHomes - Real Estate Website Template",
+  title: "DreamHomes - Real Estate Website Template",
   description:
-    "heavenhomes is a real estate website template that helps you to find the best property for you.",
+    "DreamHomes is a real estate website template that helps you to find the best property for you.",
 };
 
 type LayoutProps = {
