@@ -104,7 +104,7 @@ export default function Footer() {
           <div className={styles.business_info}>
             <div>
               <div className={cn("paragraph-small", styles.address)}>
-                123 Main Street, Hometown, USA
+                123 Main Street, Orhei, MDA
               </div>
               <div className={cn("paragraph-small", styles.phone)}>
                 (123) 456-7890
@@ -126,7 +126,7 @@ export default function Footer() {
             </div>
 
             <div className={cn("paragraph-small", styles.copyright)}>
-              © 2024 Elektra. All rights reserved.
+              © 2025 DreamHomes. All rights reserved.
             </div>
           </div>
 
